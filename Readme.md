@@ -78,6 +78,11 @@ sudo ./tornado.sh
 - Minimal system overhead with maximum anonymity
 - Works flawlessly with Kali Linux and the TOR network
 
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE) .
+
+
 
 🛠️ Developer
 Zain Nadeem
