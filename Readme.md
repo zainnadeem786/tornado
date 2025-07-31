@@ -44,10 +44,10 @@ chmod +x tornado.sh
 sudo ./tornado.sh
 ```
 
-(Upcoming) Debian Package
-Soon you’ll be able to install via:
+Debian Package you’ll be able to install via:
 
 ```bash
+sudo apt update 
 sudo apt install tornado
 ```
 
