@@ -21,7 +21,7 @@ Tornado is a powerful shell-based utility that integrates with the TOR network t
 
 ## 📸 Screenshot
 
-![Tornado in Action](screenshots/demo.png)
+![Tornado Preview](screenshots/demo.png)
 
 ```bash
 [*] Checking TOR service...
